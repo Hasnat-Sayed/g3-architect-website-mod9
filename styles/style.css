@@ -253,8 +253,8 @@ footer{
   }
 
   #experience-badge{
-    margin-top: 20px;
-    margin-left: 20px;
+    margin: 20px auto 0 auto; 
+    display: block;
   }
   .footer-des {
     padding: 20px 0px;
@@ -278,8 +278,8 @@ footer{
   }
 
   #experience-badge{
-    margin-top: 20px;
-    margin-left: 20px;
+    margin: 20px auto 0 auto; 
+    display: block;
   }
 
   .footer-des {
